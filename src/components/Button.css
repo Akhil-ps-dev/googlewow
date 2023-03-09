@@ -1,4 +1,4 @@
-.button{
+.button {
     display: flex;
     font-family: 'Open Sans';
     font-style: normal;
@@ -13,15 +13,22 @@
     align-items: center;
     position: relative;
     border-radius: 24px;
-    justify-content: center;  
-    flex-shrink: 0;  
+    justify-content: center;
+    flex-shrink: 0;
 }
 
-.arrow{
+.arrow {
     position: absolute;
 
     right: 0;
     margin: 0 6px 0 17px;
-    
-    
+
+
+}
+
+
+@media (max-width: 900px) {
+    .button {
+        display: none;
+    }
 }

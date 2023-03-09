@@ -7,10 +7,10 @@ import Button from '../components/Button'
 export default function Home() {
   return (
     <div>
-        {/* <Navbar /> */}
-        <Button/>
-        {/* <HeroSection />
-        <AboutSection /> */}
+        <Navbar />
+        {/* <Button/> */}
+        <HeroSection />
+        <AboutSection />
     </div>
   )
 }

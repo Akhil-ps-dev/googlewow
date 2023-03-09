@@ -25,8 +25,8 @@ export default function Navbar() {
         <li><a href="/Regions">Regions</a></li>
         <li><a href="/Events">Events</a></li>
         <li><a href="/Sponsors">Sponsors</a></li>
-        <li><a href="/ContactUs">ContactUs</a></li>
-        <li><a href="/About">About</a></li>
+        <li><a href="/About">About us</a></li>
+        <li><a href="/ContactUs">Contact us</a></li>
       </ul>
       </div>
       <Button/>

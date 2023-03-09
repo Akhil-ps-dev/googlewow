@@ -9,8 +9,8 @@ export default function Home() {
     <div>
         <Navbar />
         {/* <Button/> */}
-        <HeroSection />
-        <AboutSection />
+        {/* <HeroSection />
+        <AboutSection /> */}
     </div>
   )
 }
